@@ -1,1 +1,1 @@
-print("let try to connect vscode with github")
+print("let us try to connect vscode with github")
